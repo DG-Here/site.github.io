@@ -197,7 +197,7 @@ h2{
   text-align: center;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  padding: 18px 0 19px 0;
+  padding-top: 14px;
 }
 
 .car_content_right{
@@ -207,7 +207,7 @@ h2{
 
 .car_imag{
   margin-top: 166px;
-  /*margin-top: calc(60% - 133px);*/
+  /*margin-top: calc(60% - 133
 }
 
 .car_content_right span{
