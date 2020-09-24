@@ -350,6 +350,7 @@ car_content_left p{
 
 .element_grid_about_company_text,
 .element_grid_about_company_img{
+  border: 0.25px solid rgba(200, 163, 95, 0.34);
   width: 200px;
   height: 160px;
 }
